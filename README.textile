@@ -1,0 +1,23 @@
+h1. Easy Freefrom
+
+Sets the email address of the Freeform submitter as the from address (as appropriate).
+
+h2. Current Version
+
+1.0 (17 March 2011)
+
+h2. Requirements
+
+None.
+
+h2. License
+
+Easy Freefrom is distributed under the liberal MIT License.
+
+h2. Usage
+
+Enable the extension and the value of any field labeled "email" will be used as the "from email" address.
+
+If you have a field labeled "name" (or "first_name" and "last_name") those will be used as the "from name" for the email sent as well.
+
+Note: This has not been tested in conjunction with user emails, so please test before using it on any production server.
